@@ -1,0 +1,115 @@
+.site-logo{
+    width: 195px;
+}
+.button{
+    border-radius: 33px;
+    padding: 5px 20px;
+    margin: 5px 20px;
+}
+.header{
+    width: 1280px;
+    height: 576px;
+    background: #F0FFF0;
+}
+span{
+    color:#21B573 ; 
+}
+h1{
+    font-weight: bold;
+    font-size: 50px;
+    padding: 20px 5px;
+}
+.learn-color{
+    color:#FD511A;
+
+}
+.padding-top{
+    padding-top: 50px;
+}
+h3{
+    color: #413960;
+}
+p{
+    color: #585859;
+}
+.categories{
+    padding: 100px 0px;
+}
+.cat{
+    background-color: #F8FFFB;
+    text-align: center;
+    padding: 20px 0px;
+    border-radius: 10px;
+}
+.cat img{
+    padding-bottom: 10px;
+    margin: 10px 20px;
+}
+.cat-special{
+    text-align: center;
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+    padding: 20px 0px;
+    border-radius: 10px;
+}
+.cat-special img{
+    padding-bottom: 10px;
+    margin: 10px 20px;
+}
+h2{
+    color: #413960;
+    text-align: center;
+    font-weight: bold;
+}
+.icon img{
+    width: 20px;
+    float: left;
+}
+.icon-left{
+    padding-top: 20px;
+}
+.online-button{
+    border-radius: 33px;
+}
+.card{
+    border: none;
+    background: #FFFFFF;
+    box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 18px;
+}
+.online-img{
+    padding: 20px 20px;
+}
+.banner4{
+    padding: 100px 0px;
+}
+.banner4-row{
+    padding: 50px 20px;
+}
+.banner4-row img{
+    float: right;
+    padding: 0px 30px;
+}
+.banner5{
+    background-color: #282531;
+    width: 1280px;
+    height: 369px;
+}
+.ban-text{
+    color: white;
+    padding-right: 50px;
+}
+.ban-row{
+    padding: 50px 0px;
+}
+h5{
+    font-weight: bold;
+    color: white;
+}
+li{
+    color: white;
+}
+footer{
+    text-align: center;
+    padding-top:70px ;
+    color: #CDCDCD;;
+}
