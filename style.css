@@ -59,7 +59,7 @@ h2{
     color: #413960;
     text-align: center;
     font-weight: bold;
-    padding-bottom: 100px;
+    padding-bottom: 50px;
 }
 .icon img{
     width: 20px;
@@ -71,6 +71,9 @@ h2{
 .online-button{
     border-radius: 33px;
 }
+.online-cat{
+    padding: 20px 0px;
+}
 .card{
     border: none;
     background: #FFFFFF;
@@ -79,9 +82,6 @@ h2{
 }
 .online-img{
     padding: 20px 20px;
-}
-.online-cat{
-    height: 483px;
 }
 .banner4{
     padding: 100px 0px;
